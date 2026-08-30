@@ -302,15 +302,6 @@ O simulador deverá ser determinístico: com o mesmo arquivo e a mesma configura
 
 As mensagens de erro deverão indicar a linha e o motivo do problema encontrado no arquivo. Os logs deverão permitir acompanhar toda mudança de estado e conferir manualmente o resultado dos casos de teste.
 
-## 7. Organização da entrega
-
-A atividade deverá ser publicada em:
-
-```text
-so-262/atividades/atividade-03/README.md
-```
-
-Se a atividade for feita em equipe, os nomes dos integrantes deverão ser acrescentados abaixo e o mesmo documento deverá ser publicado no GitHub de cada integrante.
 
 ## Integrantes
 
