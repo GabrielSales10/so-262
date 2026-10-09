@@ -25,3 +25,43 @@ O script recebeu permissão de execução com:
 
 ```bash
 chmod +x fazer_backup.sh
+
+```
+
+Depois, executei o script com:
+
+```bash
+./fazer_backup.sh
+```
+
+Ao final, confirmei que os arquivos `relatorio_inicial.txt` e `sistema.log` foram copiados corretamente para a pasta `backup_geral`.
+
+## Evidências
+
+### Etapa 1 — Navegação e inspeção
+
+![Etapa 1](evidencia-01-navegacao.png)
+
+### Etapa 2 — Criação dos diretórios
+
+![Etapa 2](evidencia-02-diretorios.png)
+
+### Etapa 3 — Criação dos arquivos
+
+![Etapa 3](evidencia-03-arquivos.png)
+
+### Etapa 4 — Cópia e movimentação
+
+![Etapa 4](evidencia-04-copia-movimentacao.png)
+
+### Etapa 5 — Execução do script
+
+![Etapa 5](evidencia-05-script-backup.png)
+
+### Etapa 6 — Verificação do backup
+
+![Etapa 6](evidencia-06-verificacao-backup.png)
+
+## Aluno
+
+Gabriel Sales
